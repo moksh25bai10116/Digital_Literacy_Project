@@ -1,4 +1,4 @@
-## Stay Safe Online – Checklist for College Students (India)
+# Stay Safe Online – Checklist for College Students (India)
 Use strong, unique passwords
 Create different passwords for each account (email, social media, banking) and include a mix of letters, numbers, and symbols.
 Enable two-factor authentication (2FA)
